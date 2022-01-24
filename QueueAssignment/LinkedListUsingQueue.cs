@@ -48,22 +48,14 @@ namespace QueueAssignment
 
         internal void Dequeue()
         {
-            Node temp = this.head;
-            if (temp.next == null)
+             Node temp = this.head;
+            if(temp != null)
             {
-                this.head = null;
+                this.head = temp.next;
             }
-            while (temp.next != null)
+            else
             {
-                if (temp.next.next != null)
-                {
-                    temp = temp.next;
-                }
-                else
-                {
-                    temp.next = null;
-                    break;
-                }
+                Console.WriteLine("There is no data to Dequeue");
             }
             
         }
