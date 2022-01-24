@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23e4bacc-0f9d-49e5-9565-d77445a43f19": {
+      "ProjectGuid": "23e4bacc-0f9d-49e5-9565-d77445a43f19",
+      "DisplayName": "StackAssignment",
+      "ColorIndex": 0
+    },
+    "70b6d2d0-522a-4d33-8675-f5749e291de9": {
+      "ProjectGuid": "70b6d2d0-522a-4d33-8675-f5749e291de9",
+      "DisplayName": "QueueAssignment",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

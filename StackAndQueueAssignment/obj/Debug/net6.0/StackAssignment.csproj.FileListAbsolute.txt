@@ -1,0 +1,14 @@
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\StackAssignment.exe
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\StackAssignment.deps.json
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\StackAssignment.runtimeconfig.json
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\StackAssignment.dll
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\ref\StackAssignment.dll
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\bin\Debug\net6.0\StackAssignment.pdb
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.AssemblyInfo.cs
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.dll
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\ref\StackAssignment.dll
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.pdb
+C:\Users\jayam\source\repos\StackAndQueueAssignment\StackAndQueueAssignment\obj\Debug\net6.0\StackAssignment.genruntimeconfig.cache
